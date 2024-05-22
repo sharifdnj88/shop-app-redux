@@ -1,0 +1,5 @@
+1. npm create vite@latest
+2. npm install
+3. npm i react-router-dom
+4. npm i @reduxjs/toolkit
+5. npm i react-redux
